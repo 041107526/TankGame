@@ -1,4 +1,4 @@
-The small game project, based on Java's object-oriented programming paradigm, integrates the use of object pools, 
+The simple game project, based on Java's object-oriented programming paradigm, integrates the use of object pools, 
 IO streams, multithreading, and GUI. 
 
 The project code comprises three main classes:
